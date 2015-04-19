@@ -1,0 +1,4 @@
+php_flag display_erros on
+php_value error_reporting 8
+php_flag magic_quotes_gpc off
+
